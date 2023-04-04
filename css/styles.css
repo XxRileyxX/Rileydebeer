@@ -1,0 +1,144 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  color: rgb(42, 54, 49);
+}
+
+h1 {
+  margin: 25px auto 0 auto;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+ font-size: 5.625rem;
+ text-align: center;
+ color: rgb(94, 119, 93);
+ line-height: 2;
+}
+
+.top-container {
+  background-color: #edf2f4;
+  position: relative;
+  padding-top: 100px;
+  height: 100%;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 23rem;
+  top: 20px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 20rem;
+  bottom: 300px;
+}
+
+hr {
+ border-style: none;
+  border-top-style: dotted;
+  border-color: rgb(64, 81, 71);
+    border-width: 5px;
+    width: 15%;
+    margin-top: 3.245rem;
+  margin-bottom: 3.245rem;
+}
+
+h2 {
+  font-size: 2.5rem;
+  color: rgb(151, 189, 163);
+  font-weight: normal;
+}
+
+h3 {
+  color: rgb(117, 168, 129);
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+
+.spotify {
+width: 25%;
+float: left;
+margin: auto 30px auto auto;
+}
+
+.coding {
+  width: 25%;
+float: right;
+margin: auto 30px ;
+}
+
+.Image-of-me {
+  margin: 40px auto auto;
+}
+
+.bottom-container {
+  background-color: rgb(147, 199, 158);
+  height: 7.375rem;
+  padding: 3.125rem 0 1.25rem;
+}
+
+.footer-link {
+  margin: auto 2.1875rem;
+}
+
+.btn {
+  background: #a6ffb9;
+  background-image: -webkit-linear-gradient(top, #a6ffb9, #71d193);
+  background-image: -moz-linear-gradient(top, #a6ffb9, #71d193);
+  background-image: -ms-linear-gradient(top, #a6ffb9, #71d193);
+  background-image: -o-linear-gradient(top, #a6ffb9, #71d193);
+  background-image: linear-gradient(to bottom, #a6ffb9, #71d193);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #7bdba4;
+  background-image: -webkit-linear-gradient(top, #7bdba4, #448a68);
+  background-image: -moz-linear-gradient(top, #7bdba4, #448a68);
+  background-image: -ms-linear-gradient(top, #7bdba4, #448a68);
+  background-image: -o-linear-gradient(top, #7bdba4, #448a68);
+  background-image: linear-gradient(to bottom, #7bdba4, #448a68);
+  text-decoration: none;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+p {
+  line-height: 2;
+}
+
+.contact-message {
+  width: 40%; 
+  margin: auto;
+  margin-bottom: 2.7356rem;
+}
+
+a {
+  color:#11999E ;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-decoration: none;
+}
+a:hover {
+  color: #eaf6f6;
+}
+
+.copywright-message {
+  color: #eaf6f6;
+  font-size: 0.75rem;
+  padding: 1.25rem 0;
+  font-family: serif;
+}
